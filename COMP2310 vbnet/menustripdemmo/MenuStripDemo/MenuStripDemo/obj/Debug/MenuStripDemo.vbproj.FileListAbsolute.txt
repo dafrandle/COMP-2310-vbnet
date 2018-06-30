@@ -1,0 +1,11 @@
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.exe.config
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.exe
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.pdb
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\bin\Debug\MenuStripDemo.xml
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.vbprojResolveAssemblyReference.cache
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.Form1.resources
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.Resources.resources
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.vbproj.GenerateResource.Cache
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.exe
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.xml
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\menustripdemmo\MenuStripDemo\MenuStripDemo\obj\Debug\MenuStripDemo.pdb

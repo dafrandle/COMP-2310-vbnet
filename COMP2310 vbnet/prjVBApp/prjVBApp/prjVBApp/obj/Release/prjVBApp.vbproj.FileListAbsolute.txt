@@ -1,0 +1,10 @@
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\bin\Release\prjVBApp.exe.config
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\bin\Release\prjVBApp.exe
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\bin\Release\prjVBApp.pdb
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\bin\Release\prjVBApp.xml
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.Form1.resources
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.Resources.resources
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.vbproj.GenerateResource.Cache
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.exe
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.xml
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\prjVBApp\prjVBApp\prjVBApp\obj\Release\prjVBApp.pdb

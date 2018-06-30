@@ -1,0 +1,46 @@
+﻿<%@ Master Language="VB" CodeFile="master.master.vb" Inherits="master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>DB edit</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="asp.css" />
+    <script>
+        function doAlert(alertText){
+            alert(alertText);
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <h1>Website</h1>
+        </header>
+        <div id="body">
+            <div id="sidebar">
+                <p style="font-size:1.17em; width: 129px;"><b>Navigation</b></p>
+                <br/>
+            <div id="navButtonBorder">
+               <ul>
+                  <li><a href="myDataView.aspx"><p>Drop Records</p></a></li>
+                  <li><a href="editDB.aspx"><p>Insert Records</p></a></li>
+                  <li><a href="documentation.html"><p>documentation</p></a></li>
+                  <li><a href="index.aspx"><p>Logout</p></a></li>
+               </ul>
+            </div>
+            </div>
+            <div id="content">
+                <asp:ContentPlaceHolder id="Content" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <footer>
+            <p>copyright blah blah</p>
+        </footer>
+    </form>
+</body>
+</html>

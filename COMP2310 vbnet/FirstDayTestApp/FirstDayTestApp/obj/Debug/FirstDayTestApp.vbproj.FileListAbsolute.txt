@@ -1,0 +1,22 @@
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.exe.config
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.exe
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.pdb
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.xml
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.vbprojResolveAssemblyReference.cache
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.Form1.resources
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.Resources.resources
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.vbproj.GenerateResource.Cache
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.exe
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.xml
+C:\Users\Dustin Frandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.pdb
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.exe.config
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.exe
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.xml
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.pdb
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.exe
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.pdb
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\bin\Debug\FirstDayTestApp.xml
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.vbprojResolveAssemblyReference.cache
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.Form1.resources
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.Resources.resources
+C:\Users\dafrandle\OneDrive - South Central College\Classes\COMP2310 vbnet\FirstDayTestApp\FirstDayTestApp\obj\Debug\FirstDayTestApp.vbproj.GenerateResource.Cache

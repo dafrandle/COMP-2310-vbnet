@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <h1>PAGE LAYOUT:</h1>
+    <br />
+    <img src="pageLayout.png" alt="page layout" />
+    <hr />
+    <h1>Table Structurer:</h1>
+    <img src="tableLayout.PNG" alt="table layout"/>
+    <hr />
+    <h1>Reflection:</h1>
+    <h4>Problem 1</h4>
+    <p>The biggest problem i had was a textbox (which is not present anymore). The text box was on the delete items page [myDataView.aspx] <br />
+    and was where the drop down is now. I wanted users to type the number of the recored into the text box they wanted to delete. <br />
+    problem was, it wouldn't update my SQL statement builder unless i pressed enter which called the sub that ran the SQL statement <br />
+    <br />
+    This frustrated me immensely.
+    <br /><br />
+    After 4-5 hours of trying to make the textbox work, a night of sleep, and a shift of work, I took a new approach In that time i<br />
+    had figure that a textbox would be cumbersome for me because i would have to validate it, so i changed it to a drop down.<br />
+    I later learned all i had to do was add [AutoPostBack="True"] into the element declaration on the .aspx page </p>
+    <h4>Problem 2</h4>
+    <p>everything else I experienced this project is dwarfed by problem 1. However, one other (minor) problem i had was with the table on [editDB.aspx]<br />
+    It was not displaying the entries in ascending order of the GameID field. this stumbled me but then i figured to add an ORDER BY statement to the SQL string<br />
+    This didn't work with the dropdown on [myDataView.aspx] unfortunately.<p/>
+    <hr />
+    Video:<br />
+    <a href="https://www.youtube.com/watch?v=-lKPDH76LYE&feature=youtu.be">https://www.youtube.com/watch?v=-lKPDH76LYE&feature=youtu.be</a>
+    <hr />
+    Return to website:<br />
+    <a href="index.aspx">index.aspx</a>
+</body>
+</html>

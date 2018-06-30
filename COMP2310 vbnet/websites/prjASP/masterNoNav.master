@@ -1,0 +1,35 @@
+﻿<%@ Master Language="VB" CodeFile="masterNoNav.master.vb" Inherits="master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Login</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="asp.css" />
+    <script>
+        function doAlert(alertText){
+            alert(alertText);
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <h1>Website</h1>
+        </header>
+        <div id="body">
+            
+            <div id="contentNoNav">
+                <asp:ContentPlaceHolder id="Content" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <footer>
+            <p>copyrightblahblah</p>
+        </footer>
+    </form>
+</body>
+</html>

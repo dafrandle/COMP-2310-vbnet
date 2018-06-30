@@ -1,0 +1,116 @@
+﻿html{
+    background-color: #02657D;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+}
+body{
+    margin: 0px auto;
+    width: 96%;
+    min-width: 884.015px;
+    margin-top: 65px;
+    border: double;
+    border-width:thick;
+    border-color: #02657D;
+    background-color: #012B34;
+    color:white;
+}
+header {
+    margin-left: 30px;
+}
+
+footer {
+    text-align:center;
+}
+#sidebar {
+    float:left;
+    width: 129.016px;
+    margin-left: 12px;
+    border:ridge;
+    border-width:thick;
+    background-color: #4D8490;
+    border-color: #4D8490;
+    color: #012B34;
+    text-align:center;
+}
+
+#content {
+    margin-left: 163.016px;
+    margin-right: 12px;
+    min-width: 700px;
+    background-color: blue;
+    border:inset;
+    background-color: #7EC4D4;
+    border-color: #012B34;
+    color: #012B34;
+    text-align:center;
+}
+#contentNoNav {
+    margin-left: 12px;
+    margin-right: 12px;
+    min-width: 434.063px;
+    background-color: blue;
+    border:inset;
+    background-color: #7EC4D4;
+    border-color: #012B34;
+    color: #012B34;
+    text-align:center
+}
+
+#body{
+    display: block;
+}
+
+#navButtonBorder {
+   border-style: groove;
+   border-color: #4D8490;
+   border-width: thin;
+}
+#navButtonBorder ul {
+   padding-left: 0px;
+   margin: 0px auto;
+}
+#navButtonBorder li {
+   list-style: none;
+   border-style: groove;
+   border-color: #4D8490;
+   border-width: thick;
+   line-height: 0px;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   cursor:pointer;
+   height: 34px;
+   padding-top: 1px;
+   
+}
+#navButtonBorder p {
+   width: 112px;
+   height: 15px;
+   margin:0px;
+   padding-top:17px;
+   text-decoration:none;
+}
+#navButtonBorder a {
+   text-decoration:none;
+   color: #012B34;
+}
+#navButtonBorder li:hover {
+   background-color: #7EC4D4;
+   border-color: #7EC4D4;
+}
+#navButtonBorder li:active {
+   border-style: inset;
+   border-width: thick;
+   height: 34px;
+   padding-top: 1px;
+}
+
+#Content_gv{
+    margin: 0px auto;
+}
+#inputField{
+    text-align: justify;
+    margin: 0px auto;
+    width: 650px;
+    height: 249.859px;
+}

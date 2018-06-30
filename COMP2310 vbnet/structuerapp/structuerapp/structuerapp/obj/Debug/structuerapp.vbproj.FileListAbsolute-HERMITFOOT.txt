@@ -1,0 +1,17 @@
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\bin\Debug\structuerapp.exe.config
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.vbprojResolveAssemblyReference.cache
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.Form1.resources
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.Resources.resources
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.vbproj.GenerateResource.Cache
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.xml
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\bin\Debug\structuerapp.exe.config
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.xml
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.vbprojResolveAssemblyReference.cache
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.Form1.resources
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.Resources.resources
+C:\Users\Dustin Frandle\Desktop\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.vbproj.GenerateResource.Cache
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\bin\Debug\structuerapp.exe
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\bin\Debug\structuerapp.pdb
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\bin\Debug\structuerapp.xml
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.exe
+C:\Users\Dustin Frandle\OneDrive - MNSCU\Classes\COMP2310 vbnet\structuerapp\structuerapp\structuerapp\obj\Debug\structuerapp.pdb
